@@ -22,4 +22,8 @@ Announcements concerning updates, security etc. can also be found in discussions
 
 If you rather follow a feed, you can subscribe please add `https://github.com/Savvii/performance-hosting/discussions/categories/announcements.atom` to your RSS reader.
 
+## Status updates 
+
+Looking for status updates? Please subscribe to https://status.savvii.com/. 
+
 
