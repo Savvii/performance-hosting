@@ -6,6 +6,7 @@ Subscribe to get informed when new releases have happened.
 
 ## Docs
 Right now, our commands document themselves well enough.
+
 Just run `dbug` or `mnage` when connected to one of our servers. 
 A full overview of all commands, options and usage examples will appear.
 
