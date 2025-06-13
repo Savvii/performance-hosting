@@ -19,3 +19,7 @@ Make sure you search existing discussions first (and upvote if it exists) before
 
 ## Announcements
 Announcements concerning updates, security etc. can also be found in discussions.
+
+If you rather follow a feed, you can subscribe please add `https://github.com/Savvii/performance-hosting/discussions/categories/announcements.atom` to your RSS reader.
+
+
