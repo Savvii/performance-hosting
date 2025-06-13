@@ -1,4 +1,4 @@
-# performance-tooling
+# Savvii performance hosting
 
 ## Changelog
 This repo contains changelogs for tooling of our performance stack.
