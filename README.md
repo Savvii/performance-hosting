@@ -1,3 +1,5 @@
+![Savvii Logo](assets/savvii.png)
+
 # Savvii Performance Hosting
 
 ## Changelog
