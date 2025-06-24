@@ -7,9 +7,9 @@ This repo contains changelogs for tooling of our performance stack.
 Subscribe to get informed when new releases have happened.
 
 ## Docs
-Right now, our commands document themselves well enough.
+We are in the process of refactoring our knowledgebase, for now, please check the articles at https://support.savvii.nl/support/solutions/101000251685.
 
-Just run `dbug` or `mnage` when connected to one of our servers. 
+For the new tooling, run `dbug` or `mnage` when connected to one of our servers. 
 A full overview of all commands, options and usage examples will appear.
 
 ## Feature requests
