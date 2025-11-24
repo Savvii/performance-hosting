@@ -18,3 +18,10 @@
 - Fixed a bug in the `db:locks` command output
 - Refactored error handling
 
+## 202511242113 - 24/11/2025
+- Added `mnage vhost:alias` commands to add/list and delete vhost aliases for shared server setups
+- Added `mnage cron` commands to add/list and delete cronjobs
+- Added `mnage ipblock:remove` command to remove an ip from the firewall blocklist (set by Fail2Ban)
+- Added `mnage superviser:enable` command to enable Supervisor (Process Control System)
+- Added `mnage services` commands to list and restart services running in userspace
+- Fixed a bug in the `dbug search:stats` command, so it support OpenSearch
