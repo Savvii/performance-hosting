@@ -24,4 +24,4 @@
 - Added `mnage ipblock:remove` command to remove an ip from the firewall blocklist (set by Fail2Ban)
 - Added `mnage superviser:enable` command to enable Supervisor (Process Control System)
 - Added `mnage services` commands to list and restart services running in userspace
-- Fixed a bug in the `dbug search:stats` command, so it support OpenSearch
+- Fixed a bug in the `dbug search:stats` command, so it supports OpenSearch
