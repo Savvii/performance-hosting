@@ -19,7 +19,7 @@
 - Refactored error handling
 
 ## 202511242113 - 24/11/2025
-- Added `mnage vhost:alias` commands to add/list and delete vhost aliases for shared server setups
+- Added `mnage vhost:alias` commands to add/list and delete vhost aliases (for shared server setups only)
 - Added `mnage cron` commands to add/list and delete cronjobs
 - Added `mnage ipblock:remove` command to remove an ip from the firewall blocklist (set by Fail2Ban)
 - Added `mnage supervisor:enable` command to enable Supervisor (Process Control System)
