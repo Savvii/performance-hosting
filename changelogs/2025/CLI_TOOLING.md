@@ -25,3 +25,10 @@
 - Added `mnage supervisor:enable` command to enable Supervisor (Process Control System)
 - Added `mnage services` commands to list and restart services running in userspace
 - Fixed a bug in the `dbug search:stats` command, so it supports OpenSearch
+
+## 202512290808 - 29/12/2025
+- Several bugfixes
+- Added `mnage varnish:add` to add and `mnage varnish:switch` to switch Varnish Version
+- Added `mnage keydb:add`/`mnage redis:add` ability to add KeyDB and Redis
+- Added `mnage keydb:remove`/`mnage keydb:remove` ability to remove KeyDB and Redis
+- Added `mnage varnish:flush` command to flush Varnish through tooling
